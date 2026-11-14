@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>BlickPix</title>
+        <item>
+            <title>BlickPix 1.2</title>
+            <pubDate>Sat, 14 Nov 2026 09:35:30 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li>A new hover toolbar, in four styles to choose from in Settings → General → Toolbar: Capsule, Corners, Scrim and Rail. It stays readable on bright photos and adds Rotate, Flip, Info and Share buttons.</li>
+<li>BlickPix now updates itself: it checks for new versions about once a day, or choose BlickPix → Check for Updates….</li>
+<li>Also new since 1.0: Move to Trash (⌘⌫), Copy (⌘C), Share, full screen (F), an info panel with camera and lens details (I), Flip (H / V), Undo (⌘Z), Save Rotation (⌘S), File → Open Recent, and folders that follow changes made in other apps.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/halebop17/blickpix-viewer/releases/download/v1.2/BlickPix-1.2.dmg" type="application/octet-stream" sparkle:edSignature="lyRx0ZKKXnpPLDgel/lpSXJbTiv5XzQTI1jFpccJv5bSY65lCBY9bk6PA7EdYdj8FE7Q5Lk6XamPufYoDHV8AA==" length="9199885"/>
+        </item>
+    </channel>
+</rss>
