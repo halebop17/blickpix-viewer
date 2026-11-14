@@ -1,14 +1,9 @@
-# BlickPix
+<p align="center">
+  <img src="assets/AppIcon-1024.png" width="128" alt="BlickPix">
+</p>
 
-BlickPix is a minimalist macOS image viewer built around speed, keyboard navigation, and low UI clutter. Open an image and the surrounding folder becomes a browsable set — no import, no library, no setup.
+<h1 align="center">BlickPix</h1>
 
-## Components and Functions
-
-- **Supported Formats**: Handles JPEG, PNG, HEIC/HEIF, TIFF, AVIF, JPEG XL, WebP, and animated GIF images.
-- **Image Opening**: Supports opening images through file picker, drag and drop, or Finder integration.
-- **Folder Browsing**: Scans the folder of an opened image to create a browsable collection.
-- **Thumbnail Strip**: A floating strip showing thumbnails of all images in the folder, allowing quick jumps to any image.
-- **Multi-Selection**: Enables selecting multiple thumbnails for group operations.
-- **Compare Mode**: Displays selected images in side-by-side or grid layouts for comparison.
-- **Navigation**: Provides seamless browsing through images in a folder.
-- **Keyboard Controls**: Offers efficient navigation and interaction via keyboard.
+<p align="center">
+BlickPix is a fast, minimal image viewer for Mac: open one photo and browse its whole folder from a strip of thumbnails, with the controls appearing only when you point at the image. This repository is where BlickPix gets its updates: each release here is offered automatically to every copy of BlickPix downloaded from monokern.app (the App Store version updates through the App Store). To get BlickPix, go to <a href="https://monokern.app/blickpix">monokern.app/blickpix</a>.
+</p>
